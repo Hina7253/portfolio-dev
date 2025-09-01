@@ -35,7 +35,7 @@ function Navbar() {
             <img src={pic} className='h-12 w-12 rounded-full' alt="" />
             <h1 className='font-semibold text-xl cursor-pointer text-white'>
                 Hin<span className='text-blue-500 text-2xl'>a</span>
-            <p className='text-sm text-grey-500'> Aspiring Software Developer</p>
+            <p className='text-sm text-grey-500'> Portfolio</p>
             </h1>
         </div>
         {/* Menu icon for desktop view */}
@@ -68,7 +68,7 @@ function Navbar() {
        {
   menu && (
     <div>
-      <ul className='md:hidden flex flex-col h-screen items-center justify-center space-y-3 text-xl'>
+      <ul className=' bg-black z-50 md:hidden flex flex-col h-screen items-center justify-center space-y-3 text-xl'>
         {
           navItems.map(({id, text}) => (
             <li className='hover:scale-105 duration-200 font-semibold cursor-pointer' key={id}>
