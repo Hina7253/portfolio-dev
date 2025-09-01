@@ -13,7 +13,7 @@ import { ReactTyped,Typed } from "react-typed";
 function Home() {
   return (
   
-    <div style={{ backgroundColor: 'rgb(0, 0, 33)' }} className='min-h-screen w-full'>
+    <div name="Home" style={{ backgroundColor: 'rgb(0, 0, 33)' }} className='min-h-screen w-full'>
     <div className='max-w-screen-2xl container mx-auto px-4 md:px-20 pt-16 '>
     
         <div className='flex flex-col md:flex-row'>
