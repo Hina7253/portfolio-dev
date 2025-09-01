@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Home from './components/home'
-import About from './components/about'
-import Portfolio from './components/portfolio'
-import Skills from './components/skills'
-import Contact from './components/Contact'
+import Navbar from './components/Navbar.jsx'
+import Home from './components/Home.jsx'
+import About from './components/About.jsx'
+import Portfolio from './components/Portfolio.jsx'
+import Skills from './components/Skills.jsx'
+import Contact from './components/Contact.jsx'
 
 
 function App() {
@@ -14,6 +14,7 @@ function App() {
       <Home/>
       <About/>
       <Portfolio/>
+      
       <Skills/>
       <Contact/>
       
