@@ -35,8 +35,8 @@ function Home() {
            <p className='text-white text-sm md:text-md text-justify'>Hi! I'm Hina a passionate and curious software developer who loves turning ideas into interactive Applications. I enjoy learning new technologies and building projects that are creative, user-friendly, and functional. Whether it's front-end design or back-end logic, I love the process of problem solving and continuous learning.
         </p>
           <br/>
-          {/* social media  platforms */}
-          <div className='flex  flex-col items-center md:flex-row justify-between space-y-6 md:space-y-0'>
+          {/* social media  platforms!*/}
+          <div className='flex  flexcol items-center md:flex-row justify-between space-y-6 md:space-y-0'>
           <div className='space-y-2'>
             <h1 className='text-white font-bold'>Available on</h1>
             <ul className='flex space-x-5'>
