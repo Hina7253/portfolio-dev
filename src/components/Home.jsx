@@ -8,6 +8,9 @@ import { SiExpress } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { FaNodeJs } from "react-icons/fa";
 
+import { FaDiscord } from "react-icons/fa";
+
+
 import { ReactTyped,Typed } from "react-typed";
 
 function Home() {
@@ -51,9 +54,10 @@ function Home() {
     </a>
   </li>
   <li>
-    <a href='https://www.linkedin.com/in/hina-ali-4b0b1a1b2/' target='_blank' rel='noopener noreferrer'>
-      <FaTelegram className='text-white text-2xl cursor-pointer' />
-    </a>
+    <a href='https://discord.com/hina_7253/1437113540174413867' target='_blank' rel='noopener noreferrer'>
+  <FaDiscord className='text-white text-2xl cursor-pointer hover:text-[#5865F2] transition-colors duration-300' />
+</a>
+
   </li>
 </ul>
           </div>
