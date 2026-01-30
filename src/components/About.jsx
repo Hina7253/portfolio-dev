@@ -1,6 +1,6 @@
 import React from 'react';
 
-{
+function About() {
   return (
     <div name="About" style={{ backgroundColor: 'rgb(0, 0, 48)' }} className='min-h-screen'>
       <div className='max-w-screen-2xl container mx-auto px-4 md:px-20 '>
