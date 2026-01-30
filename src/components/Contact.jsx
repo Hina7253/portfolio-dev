@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { FaUser, FaEnvelope, FaCommentDots, FaLinkedin, FaTelegram, FaGithub } from 'react-icons/fa'
 
 function Contact() {
